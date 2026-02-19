@@ -12,100 +12,98 @@ CarbonWise aims to help individuals and organizations understand their environme
 
 The frontend provides:
 
-User authentication and role-based access
+1.User authentication and role-based access
 
-AI-powered emission prediction visualization
+2.AI-powered emission prediction visualization
 
-GPS-based emission estimation
+3.GPS-based emission estimation
 
-Vehicle carbon emission calculator
+4.Vehicle carbon emission calculator
 
-Industrial smoke detection interface
+5.Industrial smoke detection interface
 
-Emission reports and analytics dashboard
-
-This project supports global sustainability initiatives inspired by organizations such as the United Nations Environment Programme and research practices from NASA.
+6.Emission reports and analytics dashboard
 
 Tech Stack
 
-React (Vite)
+.React (Vite)
 
-Tailwind CSS
+.Tailwind CSS
 
-React Router DOM
+.React Router DOM
 
-Axios
+.Axios
 
-Recharts
+.Recharts
 
-Google Maps JavaScript API
+.Google Maps JavaScript API
 
 Features
 Authentication
 
-User login and registration
+.User login and registration
 
-JWT-based authentication
+.JWT-based authentication
 
-Role-based routing (Admin / User)
+.Role-based routing (Admin / User)
 
 Dashboard
 
-Carbon emission scorecard
+.Carbon emission scorecard
 
-Risk level indicator (Low / Medium / High)
+.Risk level indicator (Low / Medium / High)
 
-AI-based emission prediction (LSTM visualization)
+.AI-based emission prediction (LSTM visualization)
 
-Monthly emission bar chart
+.Monthly emission bar chart
 
-Alerts panel
+.Alerts panel
 
-Summary statistics
+.Summary statistics
 
 Location Tracking
 
-GPS location access
+.GPS location access
 
-Interactive Google Map
+.Interactive Google Map
 
-Route distance calculation
+.Route distance calculation
 
-CO₂ emission estimation
+.CO₂ emission estimation
 
-Heatmap visualization
+.Heatmap visualization
 
 Vehicle Emission Calculator
 
 Vehicle type selection (Petrol, Diesel, Hybrid, Electric)
 
-Distance input
+.Distance input
 
-Real-time emission calculation
+.Real-time emission calculation
 
-Reduction recommendations
+.Reduction recommendations
 
 Industrial Monitoring
 
-Image upload for smoke detection
+.Image upload for smoke detection
 
-CNN-based classification results
+.CNN-based classification results
 
-Risk status display
+.Risk status display
 
 Reports
 
-Emission history table
+.Emission history table
 
-PDF report download
+.PDF report download
 
 Admin Panel
 
-User management
+.User management
 
-Emission logs
+.Emission logs
 
-Search and filtering
+.Search and filtering
 
 Project Structure
 src/
@@ -164,43 +162,43 @@ Create a Pull Request on GitHub.
 
 Feature branches:
 
-feature/auth
+.feature/auth
 
-feature/dashboard
+.feature/dashboard
 
-feature/maps
+.feature/maps
 
-feature/vehicle
+.feature/vehicle
 
-feature/industrial
+.feature/industrial
 
-feature/admin
+.feature/admin
 
 Backend Integration (Expected)
 
 The frontend communicates with backend APIs for:
 
-Authentication
+.Authentication
 
-Emission data
+.Emission data
 
-AI predictions (LSTM)
+.AI predictions (LSTM)
 
-Image classification (CNN)
+.Image classification (CNN)
 
-Report generation
+.Report generation
 
 Future Improvements
 
-Real-time emission tracking
+.Real-time emission tracking
 
-Mobile responsive optimization
+.Mobile responsive optimization
 
-Notifications system
+.Notifications system
 
-Advanced analytics dashboard
+.Advanced analytics dashboard
 
-Deployment (Vercel / Netlify)
+.Deployment (Vercel / Netlify)
 
 
 License
